@@ -1,0 +1,27 @@
+.title {
+    size: 16px ;
+    color: blue;
+    text-align: center;
+    margin-top: 18px;
+}
+
+.tabla {
+    margin:auto;
+    width: 900px;
+    height: 275px !important;
+}
+
+.botones {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+    text-align: center;
+}
+
+.test {
+    margin: auto;
+    width: 10%;
+    border: 3px solid green;
+    
+}
